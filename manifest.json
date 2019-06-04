@@ -1,0 +1,15 @@
+{
+  "short_name": "Gallery",
+  "name": "Gallery App",
+  "icons": [
+    {
+      "src": "images/favi.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#efefef",
+  "display": "standalone",
+  "theme_color": "#efefef"
+}
